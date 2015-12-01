@@ -1,4 +1,4 @@
-forked from [srush][https://github.com/srush/MRF-LM].
+forked from [srush](https://github.com/srush/MRF-LM).
 
 # MRF-LM
 ## Fast Markov Random Field Language Models
